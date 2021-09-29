@@ -1,0 +1,34 @@
+For reasons beyond his comprehension, Salvator Quanuchie was spit from the
+universe like a watermelon seed!  Never to be heard from again.
+
+"I see", said the blind man, as he picked up his hammer and saw.
+
+!
+
+.!,-'"?
+
+How about a program?  That would be interesting (I can't put blank lines
+in it, though).
+
+#include <stdio.h>
+main()
+{
+   int   i;
+   for (i=9; i >= 0; i--)                  /* Gotta get the -- in! */
+      printf("Hello, world! (%d)\n", i);
+}
+
+Hey, I was right!  That was interesting!!!!!
+
+writeln('Testing the ''');
+
+This is the data for the problem named Vocal, perhaps the easiest problem
+in the set, in the High School Programming Tournament -- or "High School
+Contest" as it is sometimes called for short.  Will it be solved the most?
+We thought so in our judges' meetings!  However, the problem named Base
+could beat it.  "Only time will tell" as someone once said.
+
+Unfortunately, this is the end of the judge data.  This problem does not
+have too many special cases except for the "pronounced" -- what else
+could we call it? -- punctuation.  However, it's gonna be fun to just this
+one!  :-)
